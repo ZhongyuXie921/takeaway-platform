@@ -1,5 +1,3 @@
-# takeaway-platform
-
 # Shanghai Takeaway Platform Performance Dataset
 
 ## Overview
@@ -9,7 +7,7 @@ This dataset contains detailed performance metrics for food delivery operations 
 Below is a sample weekly performance report for the second week of August 2020 (20200810-20200816):
 
 ### Weekly KPI Dashboard
-![Weekly Performance Dashboard](weekly report.png)
+![Weekly Performance Dashboard](weekly_report.png)
 
 Key Metrics:
 - Exposure Users (曝光人数): 8,816
